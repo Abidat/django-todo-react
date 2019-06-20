@@ -1,0 +1,1 @@
+docker pull nikolaik/python-nodejs:latest
