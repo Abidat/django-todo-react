@@ -4,3 +4,5 @@ node_modules/
 .cache
 .bash_history
 .python_history
+.config
+.vscode
