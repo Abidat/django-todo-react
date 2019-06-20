@@ -2,3 +2,5 @@ node_modules/
 .local
 .npm
 .cache
+.bash_history
+.python_history
