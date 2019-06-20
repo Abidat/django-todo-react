@@ -5,4 +5,3 @@ RUN useradd -ms /bin/bash node
 
 USER node
 WORKDIR /home/node
-EXPOSE 3000
