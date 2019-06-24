@@ -42,3 +42,13 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+Awesome tutorial on React: https://www.youtube.com/watch?v=DLX62G4lc44
+
+## Other Topics
+Example of how to configure Python/Django for production: https://hackernoon.com/serving-react-and-django-together-2089645046e4
+
+MXGraph integration: https://codesandbox.io/s/github/eyupcolak/mxgraph_react_exercise1
+
+Tree Component (simple): https://github.com/chenglou/react-treeview
+
