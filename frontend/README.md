@@ -55,3 +55,8 @@ Tree Component (simple): https://github.com/chenglou/react-treeview
 Integration of the react applications into office 365 or Azure fronent environment: https://github.com/OfficeDev/office-ui-fabric-react
 
 
+## Advanced Topics in React to tread about _before_ development:
+
+Error handling: https://reactjs.org/docs/error-boundaries.html
+
+Building complex structures and the so called "context": https://reactjs.org/docs/context.html
